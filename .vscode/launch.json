@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PrimeNo",
+            "request": "launch",
+            "mainClass": "PrimeNo",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNumber",
+            "request": "launch",
+            "mainClass": "PrintNumber",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch emp",
+            "request": "launch",
+            "mainClass": "emp",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelseladder",
+            "request": "launch",
+            "mainClass": "ifelseladder",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncAndDec",
+            "request": "launch",
+            "mainClass": "IncAndDec",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch PractisetSet3",
+            "request": "launch",
+            "mainClass": "PractisetSet3",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Pattern15",
+            "projectName": "Assigment_9dacc03"
+        },
+        {
+            "type": "java",
+            "name": "Launch P1",
+            "request": "launch",
+            "mainClass": "P1",
+            "projectName": "Assigment_9dacc03"
+        }
+    ]
+}
